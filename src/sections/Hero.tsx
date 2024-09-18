@@ -66,7 +66,7 @@ export const HeroSection = () => {
         </div>
         <div className="text-center">
         <h1 className="font-serif text-3xl md:text-5xl mt-8 tracking-wide">
-            Hi, I'm Kiran
+            Hi, I&apos;m Kiran
           </h1>
           <p className="mt-4 text-xl text-white/80 max-w-2xl mx-auto">
             Frontend Developer & UI/UX Enthusiast
