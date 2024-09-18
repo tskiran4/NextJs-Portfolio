@@ -15,31 +15,14 @@ import { CardHeader } from "@/components/CardHeader";
 import { ToolboxItems } from "@/components/ToolboxItems";
 
 const toolboxItems = [
-  {
-    title: "JavaScript",
-    iconType: <JavascriptIcon />,
-  },
-  {
-    title: "HTML5",
-    iconType: <HTMLIcon />,
-  },
-  {
-    title: "CSS3",
-    iconType: <CssIcon />,
-  },
-  {
-    title: "React",
-    iconType: <ReactIcon />,
-  },
-  {
-    title: "Chrome",
-    iconType: <ChromeIcon />,
-  },
-  {
-    title: "GitHub",
-    iconType: <GithubIcon />,
-  },
+  { title: "JavaScript" },
+  { title: "HTML5" },
+  { title: "CSS3" },
+  { title: "React" },
+  { title: "Chrome" },
+  { title: "GitHub" },
 ];
+
 
 const hobbies = [
   {
